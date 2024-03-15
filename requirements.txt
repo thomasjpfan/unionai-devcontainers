@@ -1,0 +1,2 @@
+unionai==0.1.7b1
+keyrings.cryptfile==1.3.9
